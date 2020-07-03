@@ -3,7 +3,9 @@
 ## Repositórios originais
 
 [ngrx-counter](https://github.com/loiane/angular-redux-ngrx-examples/tree/master/angular-ngrx-counter)
+
 [ngrx-todo](https://github.com/loiane/angular-redux-ngrx-examples/tree/master/angular-ngrx-todo)
+
 [NGRX-Products](https://github.com/mike1477/NGRX-Products)
 
 ## Links de refêrencia
